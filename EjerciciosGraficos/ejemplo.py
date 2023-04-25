@@ -6,5 +6,5 @@ if __name__ == '__main__':
     Tkinter.Label(text='I am a button').pack(pady=15)
     Tkinter.Button( text='Button').pack(side=Tkinter.BOTTOM)
     root.mainloop()
+    print("Hola")
 
-    
